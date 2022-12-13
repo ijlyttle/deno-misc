@@ -22,5 +22,5 @@ All the optional arguments in `publish()` are available. For example, to make
 sure `.nojekyll` gets pushed:
 
 ```
-pubPages dist --add true
+pubPages dist --dots true
 ```
